@@ -1,0 +1,11 @@
+{
+    "name": "The Wok Johnson",
+    "description": "CAN YOU SMEEELLLL WHAT THE ROCK IS COOKING",
+    "image": "https://raw.githubusercontent.com/A168W/surrreyNFT/main/pat.jpg",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 100
+        }
+    ]
+}
