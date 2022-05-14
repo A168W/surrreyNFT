@@ -1,0 +1,11 @@
+{
+    "name": "Ticket",
+    "description": "Cirtrus - reward",
+    "image": "https://raw.githubusercontent.com/A168W/surrreyNFT/main/pat.jpg",
+    "attributes": [
+        {
+            "trait_type": "Lit",
+            "value": 99
+        }
+    ]
+}
