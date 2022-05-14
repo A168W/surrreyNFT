@@ -1,10 +1,10 @@
 {
-    "name": "Ticket",
-    "description": "Cirtrus - reward",
+    "name": "Surrey Rubix Ticket",
+    "description": "This is a reward for going to a Rubix Night",
     "image": "https://raw.githubusercontent.com/A168W/surrreyNFT/main/Large-Golden-Ticket-3037744642.png",
     "attributes": [
         {
-            "trait_type": "Lit",
+            "trait_type": "How Lit?",
             "value": 99
         }
     ]
